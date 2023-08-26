@@ -1,0 +1,14 @@
+.red{
+    background-color: red;
+    color: white;
+}
+
+.head, one{
+    background-color: black;
+    color: aliceblue;
+}
+
+.head, h1, h2{
+    background-color:yellow;
+    color:red;
+}

@@ -1,0 +1,28 @@
+#first{
+    background-color: burlywood;
+    color: brown;
+}
+
+#second{
+    color: chartreuse;
+}
+
+.red{
+    background-color: yellow;
+    color: black;
+}
+
+.yellow, h4, h2{              /* , it is the example of multiple selection of element and class and , is most important in multiple selector. it is use to apply same style in meny elements and class */
+    background-color:khaki;
+    color: blue;
+    border:  solid black;
+}
+
+/* * is use to select the all element it is also known as universal selector */
+
+*{
+    padding: 0%;
+    margin:0%;
+    background-color: blueviolet;
+}
+
